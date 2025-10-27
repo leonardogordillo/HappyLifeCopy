@@ -10,7 +10,7 @@
 
 ---
 
-## 🎯 Objetivo del Proyecto
+## 🎯 Objetivo del Proyectooo
 
 Explica brevemente el propósito general:
 
