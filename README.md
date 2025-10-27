@@ -10,7 +10,7 @@
 
 ---
 
-## 🎯 Objetivo del Proyectooo
+## 🎯 Objetivo del Proyecto
 
 Explica brevemente el propósito general:
 
@@ -74,4 +74,6 @@ En esta base de datos Firebase, estan todos nustros prodecutos con su informacio
 
 📦 Instalada la app Happy Life (archivo .apk que se descarga medienate codigo QR administado por los desarrolladores).
 
-🔍 Permiso para que la app use la cámara (necesa
+🔍 Permiso para que la app use la cámara 
+
+🌐 ACCESO A LA PAGINA WEB: https://lauracamilaleongon.wixsite.com/happy-life
